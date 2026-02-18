@@ -1,0 +1,4 @@
+ID,ShotName,AssetName,AssetPath,AssetType,Frames,Frame In,Frame Out
+1,"Shot_001","CineCameraActor","/Users/shreyasraghavan/Desktop/IRP Test/AssetExportTest/Export/Shot_001/Camera/CineCameraActor.fbx","Camera","50","30","80"
+2,"Shot_001","TutorialTPP","/Users/shreyasraghavan/Desktop/IRP Test/AssetExportTest/Export/Shot_001/Character/TutorialTPP.fbx","Character","50","30","80"
+3,"Shot_001","SM_Chair","/Users/shreyasraghavan/Desktop/IRP Test/AssetExportTest/Export/Shot_001/Prop/SM_Chair.fbx","Prop","50","30","80"

@@ -1,0 +1,9 @@
+ID,ShotName,AssetName,AssetPath,AssetType,Frames,Frame In,Frame Out
+1,Shot_001,Gold,/Users/shreyasraghavan/Desktop/IRP Test/Assets/hammered-gold-ue/hammered-gold_normal-dx.png,Texture,50,30,80
+2,Shot_001,Skeleton,/Users/shreyasraghavan/Desktop/IRP Test/Assets/TutorialTPP.fbx,Character,50,30,80
+3,Shot_001,Gold,/Users/shreyasraghavan/Desktop/IRP Test/Assets/hammered-gold-ue/hammered-gold_preview.jpg,Texture,50,30,80
+4,Shot_001,Chair,/Users/shreyasraghavan/Desktop/IRP Test/Assets/SM_Chair.fbx,Prop,50,30,80
+5,Shot_001,MoveInandOut,/Users/shreyasraghavan/Desktop/IRP Test/Assets/MoveInandOut.fbx,Camera,50,30,80
+6,Shot_003,MoveSideways,/Users/shreyasraghavan/Desktop/IRP Test/Assets/MoveSideways.fbx,Camera,90,20,110
+7,Shot_003,Pillar,/Users/shreyasraghavan/Desktop/IRP Test/Assets/Pillar_50x500.fbx,Environment,90,20,110
+8,Shot_003,Table,/Users/shreyasraghavan/Desktop/IRP Test/Assets/SM_TableRound.fbx,Prop,90,20,110
