@@ -49,7 +49,7 @@ For the plugin to correctly interpret your data, input CSVs (such as `AssetImpor
 ## Installation
 
 1. Place the `CSVAssetOrganiser` folder into your Unreal Engine project's `Plugins/` directory and restart Unreal Engine.
-2. 
-3. Enable the **CSV Asset Organiser** and **Python Editor Script** plugins via the **Edit > Plugins** menu.
-4. 
-5. Launch the `EUW_AssetImportOrganiser` from the Content Browser to begin importing assets based on your production spreadsheet.
+   
+2. Enable the **CSV Asset Organiser** and **Python Editor Script** plugins via the **Edit > Plugins** menu.
+   
+3. Launch the `EUW_AssetImportOrganiser` from the Content Browser to begin importing assets based on your production spreadsheet.
