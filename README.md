@@ -6,7 +6,7 @@ CSVAssetOrganiser is a pipeline tool developed to simplify the integration of ex
 
 **Automated Batch Importing**: Streamlines the process of bringing in 3D models (characters, props, environment), cameras, and textures by reading absolute file paths directly from a CSV.
 
-**Production-Based Organization**: Automatically generates a structured project hierarchy (e.g., `Export/Shot_Name/Asset_Type/`) to keep assets organized by their specific role in a sequence.
+**Production-Based Organization**: Automatically generates a structured project hierarchy (e.g., `Shot_Name/Asset_Type/`) to keep assets organized by their specific role in a sequence.
 
 **Sequencer Integration**: Uses shot data (ID, Shot Name, and Frame Data) to facilitate the creation of cinematic timelines, ensuring assets are associated with the correct frame ranges and shot numbers.
 
